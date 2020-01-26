@@ -27,4 +27,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## GitHub
 
-https://github.com/SenseiLabs/duplicate-index-finder
+https://github.com/drittich/duplicate-index-finder
